@@ -115,7 +115,7 @@ If the `router` fails to parse JSON, or returns an empty skills list `[]` (highl
 
 - **Provider:** OpenRouter
 - **Model:** `liquid/lfm-2.5-2.6b:free` (Liquid LFM 2.5)
-- **Confirmation:** This model is explicitly on the **Free Tier** and has **2.6 Billion parameters**, which strictly satisfies the requirement of being $\le$ 35B parameters. It was chosen for its high instruction-following capabilities relative to its small size, making it highly cost-effective and fast for routing and simple text transformations.
+- **Confirmation:** This model is explicitly on the **Free Tier** and has **2.6 Billion parameters**. It was chosen for its high instruction-following capabilities relative to its small size, making it highly cost-effective and fast for routing and simple text transformations.
 
 ---
 
